@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\InicioSesion\bin\Debug\InicioSesion.exe.config
+C:\Users\Usuario\source\repos\InicioSesion\bin\Debug\InicioSesion.exe
+C:\Users\Usuario\source\repos\InicioSesion\bin\Debug\InicioSesion.pdb
+C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.MenuPrincipal.resources
+C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.Properties.Resources.resources
+C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.exe
+C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.pdb
+C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.MenuNormal.resources
+C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.MenuRegistro.resources
+C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.MenuRegistrado.resources
