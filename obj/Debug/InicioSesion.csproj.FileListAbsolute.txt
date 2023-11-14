@@ -11,3 +11,4 @@ C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.pdb
 C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.MenuNormal.resources
 C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.MenuRegistro.resources
 C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.MenuRegistrado.resources
+C:\Users\Usuario\source\repos\InicioSesion\obj\Debug\InicioSesion.InsertPelicula.resources

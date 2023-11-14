@@ -21,6 +21,11 @@ namespace InicioSesion
         {
             this.Close();
         }
-        
+
+        private void peliculasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            InsertPelicula menu = new InsertPelicula();
+            menu.ShowDialog();
+        }
     }
 }
